@@ -21,7 +21,6 @@
 		D48734B819C2E33600F66A35 /* UIKit.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = D487349A19C2E33600F66A35 /* UIKit.framework */; };
 		D48734C019C2E33600F66A35 /* InfoPlist.strings in Resources */ = {isa = PBXBuildFile; fileRef = D48734BE19C2E33600F66A35 /* InfoPlist.strings */; };
 		D48734C219C2E33600F66A35 /* Git_TestTests.m in Sources */ = {isa = PBXBuildFile; fileRef = D48734C119C2E33600F66A35 /* Git_TestTests.m */; };
-		D48734CD19C2E5D900F66A35 /* GIGTest.m in Sources */ = {isa = PBXBuildFile; fileRef = D48734CC19C2E5D900F66A35 /* GIGTest.m */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -54,8 +53,6 @@
 		D48734BD19C2E33600F66A35 /* Git TestTests-Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = "Git TestTests-Info.plist"; sourceTree = "<group>"; };
 		D48734BF19C2E33600F66A35 /* en */ = {isa = PBXFileReference; lastKnownFileType = text.plist.strings; name = en; path = en.lproj/InfoPlist.strings; sourceTree = "<group>"; };
 		D48734C119C2E33600F66A35 /* Git_TestTests.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = Git_TestTests.m; sourceTree = "<group>"; };
-		D48734CB19C2E5D900F66A35 /* GIGTest.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; name = GIGTest.h; path = ../GIGTest.h; sourceTree = "<group>"; };
-		D48734CC19C2E5D900F66A35 /* GIGTest.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; name = GIGTest.m; path = ../GIGTest.m; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -120,8 +117,6 @@
 				D48734A819C2E33600F66A35 /* Main.storyboard */,
 				D48734AB19C2E33600F66A35 /* GIGViewController.h */,
 				D48734AC19C2E33600F66A35 /* GIGViewController.m */,
-				D48734CB19C2E5D900F66A35 /* GIGTest.h */,
-				D48734CC19C2E5D900F66A35 /* GIGTest.m */,
 				D48734AE19C2E33600F66A35 /* Images.xcassets */,
 				D487349D19C2E33600F66A35 /* Supporting Files */,
 			);
@@ -258,7 +253,6 @@
 				D48734AD19C2E33600F66A35 /* GIGViewController.m in Sources */,
 				D48734A719C2E33600F66A35 /* GIGAppDelegate.m in Sources */,
 				D48734A319C2E33600F66A35 /* main.m in Sources */,
-				D48734CD19C2E5D900F66A35 /* GIGTest.m in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
